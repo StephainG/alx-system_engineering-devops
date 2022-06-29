@@ -2,7 +2,6 @@
 0. <o>
 1. Hello you
 2. The path to success is to take massive, determined action
-3. If the path be beautiful, let us not ask where it leads
 4. Global variables
 5. Local variables
 6. Local variable
@@ -17,3 +16,4 @@
 15. Everyone is a proponent of strong encryption
 16. The eggs of the brood need to be an odd number
 17. I'm an instant star. Just add water and stir
+3. If the path be beautiful, let us not ask where it leads
