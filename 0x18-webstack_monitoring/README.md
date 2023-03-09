@@ -1,1 +1,1 @@
-Solution to tasks on webstack monitoring
+# Solutions to tasks on 0x18. Webstack monitoring
